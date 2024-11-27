@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Fullstack Developer!<br>🧑🏻‍🎓 I'm currently studying in Epitech, the European Institute of Technology.<br>👯 I’m looking to collaborate on any project! Let's get in touch!<br>🌱 I’m currently learning DevOps and AI. Want to help me?<br>💬 Ask me about anything! I'm curious!<br>⚡ Fun fact, despite being a programmer, I have quite an active life!<br>🚵 I love going mountain biking! Want to join me?
+🔭 I’m currently working as a Fullstack Developer!<br>🧑🏻‍🎓 I'm have studied at Epitech, the European Institute of Technology.<br>👯 I’m looking to collaborate on any project! Let's get in touch!<br>💬 Ask me about anything! I'm curious!<br>⚡ Fun fact, despite being a programmer, I have quite an active life!<br>🚵 I love going mountain biking! Want to join me?
 
 
 ## 🌐 Socials:
